@@ -1,0 +1,26 @@
+{
+  "name": "gmap",
+  "version": "1.0.0",
+  "description": "gmapAPIKrieger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeKrieger02/gmapK.git"
+  },
+  "author": "krieger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeKrieger02/gmapK/issues"
+  },
+  "homepage": "https://github.com/JoeKrieger02/gmapK#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "webpack": "^4.16.3"
+  }
+}
